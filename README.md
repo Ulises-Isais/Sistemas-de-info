@@ -8,3 +8,9 @@ ulises_isais@hotmail.com
 -   p02-area-circulo
 -   p03-area-triangulo
 -   p04-paga-trabajador 
+## ACTIVIDAD 2
+-   p05-operaciones-matematicas
+-   p06-promedio-calificaciones
+-   p07-operadores-asignacion
+-   p08-funciones-trigonometricas
+-   p09-dividir-en-cifras
