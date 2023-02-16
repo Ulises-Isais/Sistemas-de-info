@@ -14,3 +14,10 @@ ulises_isais@hotmail.com
 -   p07-operadores-asignacion
 -   p08-funciones-trigonometricas
 -   p09-dividir-en-cifras
+
+## ACTIVIDAD 3 
+- p10-trabajando-enteros
+- p11-trabajando-flotantes
+- p12-trabajando-constantes
+- p13-trabajando-caracter
+- p14-conversion-tipo
