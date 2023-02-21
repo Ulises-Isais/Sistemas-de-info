@@ -21,3 +21,17 @@ ulises_isais@hotmail.com
 - p12-trabajando-constantes
 - p13-trabajando-caracter
 - p14-conversion-tipo
+
+## TAREA 1
+-   p15-hipotenusa-triangulo
+-   p16-calcular-angulo
+-   p17-convertir-temperatura
+-   p18-volumen-cilindro
+-   p19–calculo-tiempo
+-   p20-convertir-a-dolares
+
+## ACTIVIDAD 4
+-   p21-verificar-numero
+-   p22 -verifica-suma
+-   p23-convertir-temperaturas-v2 
+-   p24-paga-trabajador-v2
