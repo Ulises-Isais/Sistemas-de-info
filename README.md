@@ -35,3 +35,9 @@ ulises_isais@hotmail.com
 -   p22 -verifica-suma
 -   p23-convertir-temperaturas-v2 
 -   p24-paga-trabajador-v2
+
+## ACTIVIDAD 5 (23/03/23)
+-    p25-estaciones-año
+-    p26-tipo-angulo
+-    p27-aceptar-estudiante
+-    p28-ley-de-newton
