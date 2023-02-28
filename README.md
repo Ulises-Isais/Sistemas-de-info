@@ -41,3 +41,9 @@ ulises_isais@hotmail.com
 -    p26-tipo-angulo
 -    p27-aceptar-estudiante
 -    p28-ley-de-newton
+
+## ACTIVIDAD 6 (28/02/23)
+- p29-calculadora
+- p30-dia-semana
+- p31-numeros-romanos
+- p32-pago-estacionamiento
