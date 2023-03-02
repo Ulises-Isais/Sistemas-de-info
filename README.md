@@ -47,3 +47,14 @@ ulises_isais@hotmail.com
 - p30-dia-semana
 - p31-numeros-romanos
 - p32-pago-estacionamiento
+
+## TAREA 2
+- p33-numeros-consecutivos
+- p34-numero-mayor
+- p35-continentes-mundo
+- p36-compra-pizza
+- p37-calculo-notas
+- p38-aceptar-estudiante-v2
+
+- ## ACTIVIDAD 7 (02/03/23)
+- p39-repaso-primerExam
