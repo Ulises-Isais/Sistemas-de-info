@@ -56,5 +56,7 @@ ulises_isais@hotmail.com
 - p37-calculo-notas
 - p38-aceptar-estudiante-v2
 
-- ## ACTIVIDAD 7 (02/03/23)
+## ACTIVIDAD 7 (02/03/23)
 - p39-repaso-primerExam
+
+## Primer Parcial (07/03/23) 
