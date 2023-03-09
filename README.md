@@ -60,3 +60,10 @@ ulises_isais@hotmail.com
 - p39-repaso-primerExam
 
 ## Primer Parcial (07/03/23) 
+
+## Actividad 8 (09/03/23)
+- p41-numeros-1-a-100
+- p42-numeros-100-1
+- p43-procesa-calificaciones
+- p44-tabla-multiplicar
+- p45-conteo-numeros
