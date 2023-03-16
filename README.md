@@ -1,21 +1,27 @@
-# INGENIERIA EN COMPUTACION 
-#  PROGRAMAS DE LA MATERIA DE PROGRAMACION C# .NET
+# INGENIERIA EN COMPUTACION
+
+# PROGRAMAS DE LA MATERIA DE PROGRAMACION C# .NET
 
 Ulises Isais
 ulises_isais@hotmail.com
-## ACTIVIDAD 1
--   p01-hola-mundo
--   p02-area-circulo
--   p03-area-triangulo
--   p04-paga-trabajador 
-## ACTIVIDAD 2
--   p05-operaciones-matematicas
--   p06-promedio-calificaciones
--   p07-operadores-asignacion
--   p08-funciones-trigonometricas
--   p09-dividir-en-cifras
 
-## ACTIVIDAD 3 
+## ACTIVIDAD 1
+
+- p01-hola-mundo
+- p02-area-circulo
+- p03-area-triangulo
+- p04-paga-trabajador
+
+## ACTIVIDAD 2
+
+- p05-operaciones-matematicas
+- p06-promedio-calificaciones
+- p07-operadores-asignacion
+- p08-funciones-trigonometricas
+- p09-dividir-en-cifras
+
+## ACTIVIDAD 3
+
 - p10-trabajando-enteros
 - p11-trabajando-flotantes
 - p12-trabajando-constantes
@@ -23,32 +29,37 @@ ulises_isais@hotmail.com
 - p14-conversion-tipo
 
 ## TAREA 1
--   p15-hipotenusa-triangulo
--   p16-calcular-angulo
--   p17-convertir-temperatura
--   p18-volumen-cilindro
--   p19–calculo-tiempo
--   p20-convertir-a-dolares
+
+- p15-hipotenusa-triangulo
+- p16-calcular-angulo
+- p17-convertir-temperatura
+- p18-volumen-cilindro
+- p19–calculo-tiempo
+- p20-convertir-a-dolares
 
 ## ACTIVIDAD 4
--   p21-verificar-numero
--   p22 -verifica-suma
--   p23-convertir-temperaturas-v2 
--   p24-paga-trabajador-v2
+
+- p21-verificar-numero
+- p22 -verifica-suma
+- p23-convertir-temperaturas-v2
+- p24-paga-trabajador-v2
 
 ## ACTIVIDAD 5 (23/03/23)
--    p25-estaciones-año
--    p26-tipo-angulo
--    p27-aceptar-estudiante
--    p28-ley-de-newton
+
+- p25-estaciones-año
+- p26-tipo-angulo
+- p27-aceptar-estudiante
+- p28-ley-de-newton
 
 ## ACTIVIDAD 6 (28/02/23)
+
 - p29-calculadora
 - p30-dia-semana
 - p31-numeros-romanos
 - p32-pago-estacionamiento
 
 ## TAREA 2
+
 - p33-numeros-consecutivos
 - p34-numero-mayor
 - p35-continentes-mundo
@@ -57,11 +68,13 @@ ulises_isais@hotmail.com
 - p38-aceptar-estudiante-v2
 
 ## ACTIVIDAD 7 (02/03/23)
+
 - p39-repaso-primerExam
 
-## Primer Parcial (07/03/23) 
+## Primer Parcial (07/03/23)
 
 ## Actividad 8 (09/03/23)
+
 - p41-numeros-1-a-100
 - p42-numeros-100-1
 - p43-procesa-calificaciones
@@ -69,7 +82,16 @@ ulises_isais@hotmail.com
 - p45-conteo-numeros
 
 ## ACTIVIDAD 9 (14/03/23)
+
 - p46–pares-ascendente
 - p47–impares-descendente
 - p48–tabla-de-conversion
 - p49–conjetura-de-collatz
+
+## ACTIVIDAD 10(16/03/23)
+
+- p54-numeros-1-n
+- p55-numeros-n-1
+- p56-arriba-abajo
+- p57-suma-pares-impares
+- p58-suma-promedio
