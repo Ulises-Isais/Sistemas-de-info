@@ -7,8 +7,8 @@ char resp;
 do
 {
 Console.Clear();
-System.Console.WriteLine(" imprime los numeros impares de n a 1, calcula su suma, el proceso se repite \n");
-System.Console.Write("Desde donde deseas los impares ?:");
+System.Console.WriteLine(" imprime los numeros impares de 1 a n, calcula su suma, el proceso se repite \n");
+System.Console.Write("Hasta donde deseas los impares ?:");
 n = int.Parse(Console.ReadLine());
 
 count = 0;
@@ -27,7 +27,9 @@ count = 0;
     
     Console.WriteLine($"\nLa suma de los numeros impares es: {sum}");
     Console.WriteLine($"El promedio de los numeros impares es: {promedio}");
-    
+    i = 0;
+    count = 0;
+    sum = 0;
     System.Console.Write("\nDeseas continuar (S/N): ");
     resp = char.ToUpper(Console.ReadLine()[0]);
 } while (resp !='N');

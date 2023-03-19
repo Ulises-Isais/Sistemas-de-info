@@ -27,7 +27,9 @@ count = 0;
     
     Console.WriteLine($"\nLa suma de los numeros pares es: {sum}");
     Console.WriteLine($"El promedio de los numeros pares es: {promedio}");
-    
+    sum = 0;
+    i = 100;
+    count = 0;
     System.Console.Write("\nDeseas continuar (S/N): ");
     resp = char.ToUpper(Console.ReadLine()[0]);
 } while (resp !='N');
