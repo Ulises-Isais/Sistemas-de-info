@@ -88,6 +88,13 @@ ulises_isais@hotmail.com
 - p48–tabla-de-conversion
 - p49–conjetura-de-collatz
 
+## TAREA 3 (EJECUCIÓN REPETITIVA)
+
+- p50-impares-ascendente
+- p51-pares-descendente
+- p52-conversion-temperaturas
+- p53-serie-fibonaci
+
 ## ACTIVIDAD 10(16/03/23)
 
 - p54-numeros-1-n
@@ -95,3 +102,17 @@ ulises_isais@hotmail.com
 - p56-arriba-abajo
 - p57-suma-pares-impares
 - p58-suma-promedio
+
+## ACTIVIDAD 11
+
+- p59-tablas-multiplicar
+- p60-piramide
+- p61-factorial-numeros
+- p62-suma-terminos
+
+## TAREA 4 (EJECUCION REPETETIVA [CILCO FOR])
+
+- p63-secuencia-numeros-1
+- p64-secuencia-numeros-2
+- p65-suma-terminos-1
+- p66-suma-terminos-2
