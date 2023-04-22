@@ -127,8 +127,12 @@ ulises_isais@hotmail.com
 
 ## ACTIVIDAD 13
 
-p72-mayor-tres-numeros
-p73-suma-digitos
-p74-suma-pares-impares
-p75-factorial
-p76-cuadro-caracter
+- p72-mayor-tres-numeros
+- p73-suma-digitos
+- p74-suma-pares-impares
+- p75-factorial
+- p76-cuadro-caracter
+
+## Repaso Segundo Parcial
+
+- p82-repaso-segundo
