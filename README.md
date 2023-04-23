@@ -136,3 +136,11 @@ ulises_isais@hotmail.com
 ## Repaso Segundo Parcial
 
 - p82-repaso-segundo
+
+## TAREA 5
+
+- p77-numero-menor
+- p78-dia-semana
+- p79-medidas-longitud
+- p80-suma-multiplos
+- p81–angulo
