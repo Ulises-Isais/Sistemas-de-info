@@ -144,3 +144,5 @@ ulises_isais@hotmail.com
 - p79-medidas-longitud
 - p80-suma-multiplos
 - p81–angulo
+
+## SEGUNDO EXAMEN PARCIAL (25/04/23)
