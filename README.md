@@ -146,3 +146,8 @@ ulises_isais@hotmail.com
 - p81–angulo
 
 ## SEGUNDO EXAMEN PARCIAL (25/04/23)
+
+## Actividad 14 (02/05/23)
+
+- p84-Empleados
+- p85-CuentaBancaria
