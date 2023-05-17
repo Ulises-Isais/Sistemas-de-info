@@ -151,3 +151,19 @@ ulises_isais@hotmail.com
 
 - p84-Empleados
 - p85-CuentaBancaria
+
+## Actividad 15
+
+- 86-cuenta-bancaria-v2
+
+## Actividad 16
+
+- 87-control-escolar
+
+## Actividad 17
+
+- 88-control-escolar-v2
+
+## Actividad 18
+
+- 89-control-escolar-v3
