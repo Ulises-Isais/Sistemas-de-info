@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Tercer-Examen/1.0.0": {
+        "runtime": {
+          "Tercer-Examen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tercer-Examen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

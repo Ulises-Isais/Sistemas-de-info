@@ -167,3 +167,5 @@ ulises_isais@hotmail.com
 ## Actividad 18
 
 - 89-control-escolar-v3
+
+## TERCER EXAMEN PARCIAL
